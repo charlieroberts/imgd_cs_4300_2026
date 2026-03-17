@@ -13,7 +13,7 @@ This course explores digital simulations and strategies for interactive represen
 
 Students will examine and create digital simulations of real world phenonmenon, such as chemical diffusion models, models of artifical life, fluid simulations, and video feedback. The class is designed to encourage both technical and aesthetic exploration.  
 
-All students will be expected to maintain a course website that contains links to all assignments. Videos should be posted to "permanent" locations (Vimeo, YouTube, bonus street cred for PeerTube) and linked in your course website. Details on this website can be found in the [onboarding assignment](./onboarding.md). 
+All students will be expected to maintain a course website that contains links to all assignments. Videos should be posted to "permanent" locations (Vimeo, YouTube, bonus street cred for PeerTube) and linked in your course website. Details on this website can be found in the [onboarding assignment](./A1.onboarding.md). 
 
 Assignments and examples for this class will primarily use [WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) / JavaScript, however, other environments and systems for GPU programming will be discussed and may be used for final projects; just talk to me about it first!
 
@@ -32,31 +32,20 @@ A best guess is provided for how much time should be spent on each assignment. S
 
 ### Week 1: Getting Started / GLSL Live Coding / Visual Music
 - *Basic Intro to WGSL / Shader programmming* Assignment:  
-    - Complete the [onboarding](./onboarding.md). Due 9/6 (2 hours).
-- *Shader Live Coding and Visual Music*.  Assignments:  
-    - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Noise](https://thebookofshaders.com/11/). Due 9/6 (4 hours).
-    - Complete the Shader Live Coding Assignment, also due 9/6 (6 hours).  
+    - Complete the [onboarding](./A1.onboarding.md). Due 3/24 (2 hours).
+- *Shader Live Coding and Visual Music*. Assignments:  
+    - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Noise](https://thebookofshaders.com/11/). Due 3/24 (4 hours).
+    - Complete the Shader Live Coding Assignment, due 3/24 (6 hours).  
 
 ### Week 2: Tech - Intro to WebGPU and Video synthesis history
-Assignments:  
-  - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Fractal Brownian Motion](https://thebookofshaders.com/13/). Due 9/13 (2 hours).
-  - Complete the [WebGPU Intro / Video Processing Assignment](A2.video_processing.md). due on 9/13 (8 hours).  
   
 ### Week 3: Automata and Morphogenesis
-- Cellular Automata  
-- Complete the [Reaction Diffusion assignment](./A3.reaction_diffusion.md), due on 9/20.
 
 ### Week 4: Vertex Shaders and Particle Effects
-- Go through the [Your first WebGPU app tutorial](https://codelabs.developers.google.com/your-first-webgpu-app#0), which will teach you to create a WebGPU application from the ground up, with no additional libraries. Give yourself about 4-5 hours for this, it's a long tutorial! Due 9/27
-- Complete the [Particle effects assignment](./A4.particles.md)
    
 ### Week 5: Agent-based Simulations
-- [Langton's Ants Assignment](./A5.vants.md) (3--4 hours)
-- Begin working on final project (6 hours)
 
 ### Week 6: Interaction in the Digital Arts + Other ways to tame the GPU: CUDA / Game Engines
-- OSC / MIDI
-- Using mobile devices for remote control of simulations
 
 ### Week 7: Final Project Presentations &amp; Wrapup  
 
