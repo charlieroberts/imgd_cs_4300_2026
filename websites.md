@@ -1,1 +1,2 @@
 - [Example](https://charlie-roberts.com)
+- [Sarah Hatch](https://github.com/SarahSchool27/IMGD-CS-4300_Hatch)
