@@ -2,6 +2,7 @@
 - [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
+- [Torin D](https://sites.google.com/view/imgd4300)
 - [Diwen Chen](https://dchen1204.github.io/IMGD4300Website/)
 - [Ellie Scharpf](https://sites.google.com/view/elliescharpf-cs4300/home)
 - [Colin Hoar](https://github.com/colinhoar/Colin-Hoar-IMGD-CS-4300-Graphics-Simulation-and-Aesthetics)
