@@ -1,7 +1,7 @@
 - [Lucas Marble](https://github.com/marblelucas/LucasMarbleCS4300/tree/main)
 - [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
-- [Example](https://charlie-roberts.com)
+- [Cameron Pietraski](https://github.com/KrazyKoi/CS4300-Graphics-Simulation-and-Aesthetics)
 - [Christian Reynolds](https://www.christianreynolds.work/)
 - [Torin D](https://sites.google.com/view/imgd4300)
 - [Diwen Chen](https://dchen1204.github.io/IMGD4300Website/)
