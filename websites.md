@@ -1,6 +1,7 @@
 - [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
+- [Cole Bennett](https://cole-bennett.netlify.app/imgd_4300)
 - [Eliza Hackler](https://portfolio-site-1f80.onrender.com)
 - [Jay Weil](https://agaricspot.wordpress.com/cs-4300/)
 - [Tiffany Semexant](https://tiffany-t-s.github.io/ttsemexant.cs-4300.io/)
