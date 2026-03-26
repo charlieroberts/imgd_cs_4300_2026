@@ -43,7 +43,11 @@ A best guess is provided for how much time should be spent on each assignment. S
     - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Noise](https://thebookofshaders.com/11/). Due 3/24 (4 hours).
     - Complete the Shader Live Coding Assignment, due 3/24 (6 hours).  
 
-### Week 2: Tech - Intro to WebGPU and Video synthesis history
+### Week 2: Using WebGPU and Video synthesis history
+- *Readings*
+    - Read the final two chapters of [The Book of Shaders](http://thebookofshaders.com). Due 3/27 (2 hours).
+- *Intro to using WebGPU*:
+    - Complete the [WebGPU Intro Assignment](/A3.webgpu_intro.md), due 4/3 by start of class, (6 hours).
   
 ### Week 3: Automata and Morphogenesis
 
