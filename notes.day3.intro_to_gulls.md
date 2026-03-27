@@ -58,7 +58,7 @@ If you launch a web server from within the project directory, loading `index.htm
 
 The easiest way to launch a webserver is the following assuming you have node.js installed:
 ```
-npm i http-server
+npm i http-server -g
 http-server .
 ```
 
