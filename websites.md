@@ -9,7 +9,7 @@
 - [Colin Hoar](https://github.com/colinhoar/Colin-Hoar-IMGD-CS-4300-Graphics-Simulation-and-Aesthetics)
 - [Walton Pelkey](https://sites.google.com/view/waltonpelkey-cs4300/home) 
 - [Sarah Hatch](https://github.com/SarahSchool27/IMGD-CS-4300_Hatch)
-- [Keenan Porter's Website](https://github.com/Keenan-Porter/GSA-Class-website-KP/blob/main/Home)
+- [Keenan Porter's Website](https://github.com/Keenan-Porter/GSA-Class-website-KP/blob/main/Home.md)
 - [Biwen Dong's Website](https://github.com/BiwenDong/CS4300-Graphics_Simulation_Aesthetics)
 - [Katherine Tse](https://kat24-4.github.io/)
 - [Cole Bennett](https://cole-bennett.netlify.app/imgd_4300)
