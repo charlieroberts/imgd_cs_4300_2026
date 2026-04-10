@@ -48,10 +48,14 @@ A best guess is provided for how much time should be spent on each assignment. S
     - Read the final two chapters of [The Book of Shaders](http://thebookofshaders.com). Due 3/27 (2 hours).
 - *Intro to using WebGPU*:
     - Complete the [WebGPU Intro Assignment](/A3.webgpu_intro.md), due 4/3 by start of class, (6 hours).
-  
-### Week 3: Automata and Morphogenesis
 
-### Week 4: Vertex Shaders and Particle Effects
+### Week 3 9/13: Automata and Morphogenesis
+- Cellular Automata  
+- Complete the [Reaction Diffusion assignment](./A3.reaction_diffusion.md), due on 9/20.
+  
+### Week 4 9/20: Vertex Shaders and Particle Effects
+- Go through the [Your first WebGPU app tutorial](https://codelabs.developers.google.com/your-first-webgpu-app#0), which will teach you to create a WebGPU application from the ground up, with no additional libraries. Give yourself about 4-5 hours for this, it's a long tutorial! Due 4/17
+- Complete the [Particle effects assignment](./A4.particles.md) by 4/17
    
 ### Week 5: Agent-based Simulations
 
