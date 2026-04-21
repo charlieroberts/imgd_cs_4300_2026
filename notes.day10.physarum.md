@@ -2,7 +2,7 @@ Today we’ll be looking at slime molds. Which are awesome. Single-celled organi
 
 - [Slime Mold Smarts](https://www.scientificamerican.com/article/brainless-slime-molds/)
 - [Are you smarter than a slime mold?](https://www.youtube.com/watch?v=K8HEDqoTPgk)
-- [Coding Adventure: Ant and Slime Simulations (thanks Eli!)](https://www.youtube.com/watch?v=X-iSQQgOd1A&t=9s)
+- [Coding Adventure: Ant and Slime Simulations](https://www.youtube.com/watch?v=X-iSQQgOd1A&t=9s)
 - [Twitter feed for Sage Jenson](https://twitter.com/mxsage)
 
 As it turns out, our model for Langton’s Ants gets us… most of the way to being able to do Physarum simulations. The core concept in Langton’s algorithm—agents move through a space leave trails of chemicals which in turn influence how agents move—is  the majority of what the Physarum simulation is all about. There’s a couple of other elements (of course):
